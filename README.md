@@ -1,7 +1,7 @@
 # Student @ UW SYDE     
 
-**Where to find me? rachael.ni@uwaterloo.ca!! 
-Technical Skills: Python, Javascript, C++ (soon!)**
+**Where to find me? rachael.ni@uwaterloo.ca!!**
+**Technical Skills: Python, Javascript, C++ (soon!)**
 
 ## Education
 - OSSD @ Iroquois Ridge High School (_Sep 2020 - June 2024_)
