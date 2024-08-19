@@ -1,5 +1,6 @@
 # Student @ UW SYDE     
 
+#### Where to find me? @rachael.ni@uwaterloo.ca!!
 #### Technical Skills: Python, Javascript, C++ (soon!)
 
 ## Education
