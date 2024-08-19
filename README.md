@@ -1,4 +1,4 @@
-# student @ UW SYDE
+# Student @ UW SYDE
 
 #### Technical Skills: Python, Javascript, C++ (soon)
 
@@ -7,7 +7,7 @@
 - BASc in Systems Design Engineering @ The University of Waterloo (_Sep 2024-May 2029_)	        		
 
 ## Work Experience
-**Assistant @ Kumon (_August 2022-August 2023)**
+**Assistant @ Kumon (_August 2022-August 2023_)**
 - taught and supported children and teens (ages 3-18) in mathematics and reading
 - organized over 150 folders daily, maintained and stocked inventory, and opened/closed the centre
 
@@ -21,6 +21,8 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+
+## Extracurriculars
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
